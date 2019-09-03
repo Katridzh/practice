@@ -1,0 +1,10 @@
+Igrok14 0.44 23
+Igrok11 0.47 31
+Igrok13 0.48 50
+Igrok22 0.55 44
+Igrok13 0.71 35
+Igrok22 0.79 35
+Igrok12 0.82 50
+Igrok20 0.83 48
+Igrok16 0.87 41
+Igrok1 0.94 50

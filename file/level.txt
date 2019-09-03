@@ -1,0 +1,16 @@
+3
+false
+res/fon.png
+2355
+20000
+4
+true
+res/fon.png
+2355
+20000
+5
+true
+res/fon.png
+2355
+30000
+8
